@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<h2>If you want ADD new objects</h2>
+<h2>If you want to ADD new objects</h2>
 <button onclick="window.location.href = 'operations/add_client.jsp';">Client</button>
 <br>
 <button onclick="window.location.href = 'operations/add_order.jsp';">Order</button>
@@ -22,7 +22,7 @@
 <button onclick="window.location.href = 'operations/add_product_to_order.jsp';">Product to Order</button>
 
 
-<h2>If you want GET exist objects</h2>
+<h2>If you want to GET exist objects</h2>
 <button onclick="window.location.href = 'operations/get_client.jsp';">Client</button>
 <br>
 <button onclick="window.location.href = 'operations/get_order.jsp';">Order</button>
